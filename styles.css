@@ -1,0 +1,32 @@
+
+body {
+  display: flex;
+  flex-direction: column;
+  padding: 0 20px
+}
+
+   h1 {
+  text-align: center;
+  background-color: yellow;
+  color: black;
+  font-size: 35px;
+  padding: 30px;
+
+
+
+}
+  section {
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+  }
+
+.partOne {
+  width: 60%;
+  padding: 20px;
+
+}
+.partTwo {
+  width: 35%;
+  padding: 20px;
+}
